@@ -154,14 +154,15 @@ namespace externalKeystrokes
                     imports.keybd_event(VK_LCONTROL, 0, KEYEVENTF_KEYUP, 0);
                     toggleLabel.Text = @"[(Toggle Sprint: Not Sprinting)]";
                 }
-
-                Process[] pname = Process.GetProcessesByName("Minecraft.Windows");
-
-                if (pname.Length == 0)
-                {
-                    Environment.Exit(-1);
-                }
             }
+
+            Process[] pname = Process.GetProcessesByName("Minecraft.Windows");
+
+            if (pname.Length == 0)
+            {
+                Environment.Exit(-1);
+            }
+
         }
     }
 }

@@ -8,3 +8,13 @@ D:\Coding Projects\Langs\C#\COOLSHIT\externalKeystrokes\externalKeystrokes\bin\D
 D:\Coding Projects\Langs\C#\COOLSHIT\externalKeystrokes\externalKeystrokes\bin\Debug\externalKeystrokes.pdb
 D:\Coding Projects\Langs\C#\COOLSHIT\externalKeystrokes\externalKeystrokes\obj\Debug\externalKeystrokes.exe
 D:\Coding Projects\Langs\C#\COOLSHIT\externalKeystrokes\externalKeystrokes\obj\Debug\externalKeystrokes.pdb
+D:\Coding Projects\Github Repos\bedrock keystrokes\Minecraft-External-ToggleSprint-Keystrokes-\externalKeystrokes\bin\Debug\externalKeystrokes.exe.config
+D:\Coding Projects\Github Repos\bedrock keystrokes\Minecraft-External-ToggleSprint-Keystrokes-\externalKeystrokes\bin\Debug\externalKeystrokes.exe
+D:\Coding Projects\Github Repos\bedrock keystrokes\Minecraft-External-ToggleSprint-Keystrokes-\externalKeystrokes\bin\Debug\externalKeystrokes.pdb
+D:\Coding Projects\Github Repos\bedrock keystrokes\Minecraft-External-ToggleSprint-Keystrokes-\externalKeystrokes\obj\Debug\externalKeystrokes.csprojAssemblyReference.cache
+D:\Coding Projects\Github Repos\bedrock keystrokes\Minecraft-External-ToggleSprint-Keystrokes-\externalKeystrokes\obj\Debug\externalKeystrokes.Form1.resources
+D:\Coding Projects\Github Repos\bedrock keystrokes\Minecraft-External-ToggleSprint-Keystrokes-\externalKeystrokes\obj\Debug\externalKeystrokes.Properties.Resources.resources
+D:\Coding Projects\Github Repos\bedrock keystrokes\Minecraft-External-ToggleSprint-Keystrokes-\externalKeystrokes\obj\Debug\externalKeystrokes.csproj.GenerateResource.cache
+D:\Coding Projects\Github Repos\bedrock keystrokes\Minecraft-External-ToggleSprint-Keystrokes-\externalKeystrokes\obj\Debug\externalKeystrokes.csproj.CoreCompileInputs.cache
+D:\Coding Projects\Github Repos\bedrock keystrokes\Minecraft-External-ToggleSprint-Keystrokes-\externalKeystrokes\obj\Debug\externalKeystrokes.exe
+D:\Coding Projects\Github Repos\bedrock keystrokes\Minecraft-External-ToggleSprint-Keystrokes-\externalKeystrokes\obj\Debug\externalKeystrokes.pdb

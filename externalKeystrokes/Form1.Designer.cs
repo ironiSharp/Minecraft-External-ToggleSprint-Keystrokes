@@ -48,7 +48,7 @@ namespace externalKeystrokes
             this.btnW.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnW.Font = new System.Drawing.Font("Segoe UI Light", 20F);
             this.btnW.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(225)))), ((int)(((byte)(225)))));
-            this.btnW.Location = new System.Drawing.Point(1762, 46);
+            this.btnW.Location = new System.Drawing.Point(1769, 46);
             this.btnW.Name = "btnW";
             this.btnW.Size = new System.Drawing.Size(75, 71);
             this.btnW.TabIndex = 0;
@@ -63,7 +63,7 @@ namespace externalKeystrokes
             this.btnS.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnS.Font = new System.Drawing.Font("Segoe UI Light", 20F);
             this.btnS.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(225)))), ((int)(((byte)(225)))));
-            this.btnS.Location = new System.Drawing.Point(1762, 120);
+            this.btnS.Location = new System.Drawing.Point(1769, 120);
             this.btnS.Name = "btnS";
             this.btnS.Size = new System.Drawing.Size(75, 72);
             this.btnS.TabIndex = 1;
@@ -78,7 +78,7 @@ namespace externalKeystrokes
             this.btnD.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnD.Font = new System.Drawing.Font("Segoe UI Light", 20F);
             this.btnD.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(225)))), ((int)(((byte)(225)))));
-            this.btnD.Location = new System.Drawing.Point(1840, 120);
+            this.btnD.Location = new System.Drawing.Point(1847, 120);
             this.btnD.Name = "btnD";
             this.btnD.Size = new System.Drawing.Size(75, 72);
             this.btnD.TabIndex = 2;
@@ -93,7 +93,7 @@ namespace externalKeystrokes
             this.btnA.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnA.Font = new System.Drawing.Font("Segoe UI Light", 20F);
             this.btnA.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(225)))), ((int)(((byte)(225)))));
-            this.btnA.Location = new System.Drawing.Point(1684, 120);
+            this.btnA.Location = new System.Drawing.Point(1691, 120);
             this.btnA.Name = "btnA";
             this.btnA.Size = new System.Drawing.Size(75, 72);
             this.btnA.TabIndex = 3;
@@ -108,7 +108,7 @@ namespace externalKeystrokes
             this.LMButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.LMButton.Font = new System.Drawing.Font("Segoe UI Light", 20F);
             this.LMButton.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(225)))), ((int)(((byte)(225)))));
-            this.LMButton.Location = new System.Drawing.Point(1684, 195);
+            this.LMButton.Location = new System.Drawing.Point(1691, 195);
             this.LMButton.Name = "LMButton";
             this.LMButton.Size = new System.Drawing.Size(114, 75);
             this.LMButton.TabIndex = 4;
@@ -128,7 +128,7 @@ namespace externalKeystrokes
             this.RMButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.RMButton.Font = new System.Drawing.Font("Segoe UI Light", 20F);
             this.RMButton.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(225)))), ((int)(((byte)(225)))));
-            this.RMButton.Location = new System.Drawing.Point(1801, 195);
+            this.RMButton.Location = new System.Drawing.Point(1808, 195);
             this.RMButton.Name = "RMButton";
             this.RMButton.Size = new System.Drawing.Size(114, 75);
             this.RMButton.TabIndex = 5;
@@ -150,7 +150,7 @@ namespace externalKeystrokes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1929, 1036);
+            this.ClientSize = new System.Drawing.Size(1946, 1036);
             this.Controls.Add(this.toggleLabel);
             this.Controls.Add(this.RMButton);
             this.Controls.Add(this.LMButton);

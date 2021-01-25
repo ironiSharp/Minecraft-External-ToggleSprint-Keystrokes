@@ -59,77 +59,77 @@ namespace externalKeystrokes
 
                 if (windowName.Contains("Minecraft"))
                 {
+                    this.BringToFront();
+                    this.TopMost = true;
+
                     this.Opacity = 100;
-                    sprintTimer.Start();
                 }
                 else
                 {
                     this.Opacity = 0;
-                    sprintTimer.Stop();
                 }
             }
 
-            this.BringToFront();
-            this.TopMost = true;
-
             if (imports.GetAsyncKeyState(Keys.W) < 0)
             {
-                btnW.BackColor = Color.FromArgb(60, 60, 60);
+                btnW.BackColor = Color.FromArgb(80, 80, 80);
             }
             else
             {
                 btnW.BackColor = Color.FromArgb(30, 30, 30);
             }
 
+
             if (imports.GetAsyncKeyState(Keys.S) < 0)
             {
-                btnS.BackColor = Color.FromArgb(60, 60, 60);
+                btnS.BackColor = Color.FromArgb(80, 80, 80);
             }
             else
             {
                 btnS.BackColor = Color.FromArgb(30, 30, 30);
             }
 
+
             if (imports.GetAsyncKeyState(Keys.A) < 0)
             {
-                btnA.BackColor = Color.FromArgb(60, 60, 60);
+                btnA.BackColor = Color.FromArgb(80, 80, 80);
             }
             else
             {
                 btnA.BackColor = Color.FromArgb(30, 30, 30);
             }
 
+
             if (imports.GetAsyncKeyState(Keys.D) < 0)
             {
-                btnD.BackColor = Color.FromArgb(60, 60, 60);
+                btnD.BackColor = Color.FromArgb(80, 80, 80);
             }
             else
             {
                 btnD.BackColor = Color.FromArgb(30, 30, 30);
             }
 
+
             if (imports.GetAsyncKeyState(Keys.LButton) < 0)
             {
-                LMButton.BackColor = Color.FromArgb(60, 60, 60);
+                LMButton.BackColor = Color.FromArgb(80, 80, 80);
             }
             else
             {
                 LMButton.BackColor = Color.FromArgb(30, 30, 30);
             }
 
+
             if (imports.GetAsyncKeyState(Keys.RButton) < 0)
             {
-                RMButton.BackColor = Color.FromArgb(60, 60, 60);
+                RMButton.BackColor = Color.FromArgb(80, 80, 80);
             }
             else
             {
                 RMButton.BackColor = Color.FromArgb(30, 30, 30);
             }
 
-        }
 
-        private void sprintTimer_Tick(object sender, EventArgs e)
-        {
             if (imports.GetAsyncKeyState(Keys.W) < 0)
             {
                 imports.keybd_event(VK_LCONTROL, 0, 0, 0);
